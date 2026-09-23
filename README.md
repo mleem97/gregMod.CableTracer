@@ -6,6 +6,7 @@
 
 ## Links
 
+- **Steam Workshop:** [My Workshop (Data Center)](https://steamcommunity.com/id/frikadelle3000/myworkshopfiles/?appid=4170200)
 - **Repository:** [https://github.com/mleem97/gregMod.CableTracer](https://github.com/mleem97/gregMod.CableTracer)
 - **Issues:** [https://github.com/mleem97/gregMod.CableTracer/issues](https://github.com/mleem97/gregMod.CableTracer/issues)
 - **Releases:** [https://github.com/mleem97/gregMod.CableTracer/releases](https://github.com/mleem97/gregMod.CableTracer/releases)
