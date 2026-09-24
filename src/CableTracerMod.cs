@@ -1,6 +1,7 @@
 using Il2CppInterop.Runtime.Injection;
 using MelonLoader;
 using UnityEngine;
+[assembly: System.Runtime.CompilerServices.InternalsVisibleTo("ModCoverage.Tests")]
 
 [assembly: MelonInfo(typeof(CableTracer.CableTracerMod), CableTracer.MyPluginInfo.PLUGIN_NAME, CableTracer.MyPluginInfo.PLUGIN_VERSION, "tindolt")]
 [assembly: MelonGame("Waseku", "Data Center")]
